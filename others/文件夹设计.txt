@@ -1,0 +1,34 @@
+文件夹设计:
+
+1.installation   			--		程序安装
+	1.1 common				--		通用程序			浏览器, 7-zip, BeyondCompare, 有道翻译等。			
+	1.2 development  		--		开发程序		
+		1.2.1 java			--		java开发程序:	IDEA, Eclipse, JDK, Maven, Tomcat等
+		1.2.2 node			--		node开发程序:	VSCode, WebStorm等 同时包含前端开发工具包
+		1.2.3 其他			--		其他开发程序:		 		
+	1.3 database			--		数据库：			mysql(会同时安装客户端和服务端)，redis, moongodb
+	1.4	controller			--		版本控制:		Git(会同时安装客户端和服务端)
+	1.5	company				--		公司使用:		飞秋，zmail等
+
+2. project					--		项目代码
+
+3. study					--		自我学习
+	3.1	books				--		书籍
+	3.2	data 				--		资料分类	
+		3.2.1 common		--		通用	
+		3.2.1 java   		--   	java资料
+			3.2.1.1	spring	--		spring知识点
+		...					--		自行创建
+	3.3 common				--		
+
+4. download					--		下载
+	4.1	execute				--		可执行程序:		主要是exe文件(可以考虑将其删除，但不是必须的)
+	4.2	compress			--		压缩文件：		压缩文件下载完，要将其解压到相应的文件夹，同时如果想要保存，可以在此文件夹下创建对应的子文件夹
+	4.3 common				--		通用下载：		图片，文件等，非压缩包形式的文件.
+
+5. document					--		文档
+	5.1	工作安排						
+		5.1.1 工作任务安排	
+	5.2 开发文档
+	5.3 综合文档
+
